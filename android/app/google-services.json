@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826813755811",
+    "project_id": "investmentmindset-89f0f",
+    "storage_bucket": "investmentmindset-89f0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826813755811:android:e4c006017aeea44bfb6a16",
+        "android_client_info": {
+          "package_name": "com.example.crypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826813755811-tul77o28jq1k7tj44tfbdogqn1nqn0bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7a-An1v7MeYztxIvJqhr4L6u7OwcrYr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826813755811-tul77o28jq1k7tj44tfbdogqn1nqn0bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
